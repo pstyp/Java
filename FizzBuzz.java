@@ -30,7 +30,7 @@ public class FizzBuzz {
 
 		return fizzBuzz;
 	}
-
+// ALTERNATIVE SOLUTION
 	public static String fizzBuzz2(int number) {
 		if (number % 3 == 0) {
 			if (number % 5 == 0) {
